@@ -9,7 +9,7 @@
 
 ---
 
-- 👤 **About Me:** 19y/o, working as a judicial clerk in Germany  
+- 👤 **About Me:** 20y/o, working as a judicial clerk in Germany  
 - 🛠️ **What I Do:** Developing Plugins, Scripts, Minecraft Servers
 - 📚 **Currently Learning:** Java & Python
 - ⚒️ **Projects:** Discord & Minecraft Server
